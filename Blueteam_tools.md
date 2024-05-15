@@ -46,6 +46,12 @@ IP地址白名单过滤器，可配合微步API分析，护网蓝队重保工具
 
 [项目地址](https://github.com/misaki7in/ipfilter)
 
+### dfir-win
+
+应急响应时收集Windows机器信息。
+
+[项目地址](https://github.com/Alex-null/dfir-win)
+
 ### CobaltStrikeScan 最近一次更新2021年
 
 扫描文件或进程内存以查找Cobalt Strike信标并解析其配置。
